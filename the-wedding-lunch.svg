@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="285.75mm"
+   height="582.08331mm"
+   viewBox="0 0 285.75 582.08331"
    version="1.1"
    id="svg22365"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -25,14 +25,18 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.27464869"
-     inkscape:cx="89.204867"
-     inkscape:cy="427.81926"
+     inkscape:cx="304.02475"
+     inkscape:cy="318.58881"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs22362">
     <clipPath
@@ -50,7 +54,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(57.044727,125.51184)">
     <path
        id="rect19340-2"
        style="fill:#76893a;stroke-width:0.253319"
